@@ -1,0 +1,5 @@
+{
+  "name": "Factory IT Equipment Management",
+  "description": "A web application to manage IT equipment across different factory buildings using interactive floor plans.",
+  "requestFramePermissions": []
+}
